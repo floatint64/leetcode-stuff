@@ -38,3 +38,4 @@ Some solved leetcode tasks
 * [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 * [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
+* [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)
