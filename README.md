@@ -13,3 +13,4 @@ Some solved leetcode tasks
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 * [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)
 * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+* [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
