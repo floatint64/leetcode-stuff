@@ -15,3 +15,4 @@ Some solved leetcode tasks
 * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 * [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 * [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+* [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
