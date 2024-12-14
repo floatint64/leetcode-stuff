@@ -18,3 +18,4 @@ Some solved leetcode tasks
 * [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+* [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
