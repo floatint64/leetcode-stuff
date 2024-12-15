@@ -22,3 +22,4 @@ Some solved leetcode tasks
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 * [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+* [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
