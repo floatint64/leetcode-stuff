@@ -20,3 +20,4 @@ Some solved leetcode tasks
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 * [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+* [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
