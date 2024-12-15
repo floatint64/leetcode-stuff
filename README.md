@@ -23,3 +23,4 @@ Some solved leetcode tasks
 * [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+* [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
