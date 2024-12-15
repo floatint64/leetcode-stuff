@@ -21,3 +21,4 @@ Some solved leetcode tasks
 * [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 * [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
+* [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
