@@ -24,3 +24,4 @@ Some solved leetcode tasks
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 * [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+* [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
