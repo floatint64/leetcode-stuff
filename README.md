@@ -27,3 +27,4 @@ Some solved leetcode tasks
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+* [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
