@@ -26,3 +26,4 @@ Some solved leetcode tasks
 * [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+* [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
