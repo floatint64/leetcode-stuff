@@ -28,3 +28,4 @@ Some solved leetcode tasks
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+* [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
