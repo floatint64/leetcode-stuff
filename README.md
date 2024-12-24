@@ -29,3 +29,4 @@ Some solved leetcode tasks
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
 * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+* [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
