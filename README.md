@@ -32,3 +32,4 @@ Some solved leetcode tasks
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+* [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
