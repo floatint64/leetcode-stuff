@@ -33,4 +33,37 @@ public class TreeNode {
         return queue;
     }
 
+    public static TreeNode fromArray(Integer[] input) {
+        if (input.length < 1) {
+            return null;
+        }
+
+        TreeNode root = new TreeNode(input[0]);
+
+        int i = 1;
+        Queue<TreeNode> initQueue = new LinkedList<>();
+        initQueue.add(root);
+
+        while (i < input.length - 1) {
+
+            TreeNode node = initQueue.poll();
+
+            if (input[i] != null) {
+                TreeNode left = new TreeNode(input[i]);
+                node.left = left;
+                initQueue.add(left);
+            }
+
+            if ((i + 1 < input.length) && input[i + 1] != null) {
+                TreeNode right = new TreeNode(input[i + 1]);
+                node.right = right;
+                initQueue.add(right);
+            }
+
+            i += 2;
+
+        }
+
+        return root;
+    }
 }

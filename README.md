@@ -35,3 +35,4 @@ Some solved leetcode tasks
 * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
+* [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
