@@ -36,3 +36,4 @@ Some solved leetcode tasks
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
 * [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
+* [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
