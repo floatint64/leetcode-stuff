@@ -39,3 +39,4 @@ Some solved leetcode tasks
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 * [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
 * [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)
+* [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
