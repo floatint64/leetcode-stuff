@@ -41,3 +41,4 @@ Some solved leetcode tasks
 * [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)
 * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
 * [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
+* [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
