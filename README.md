@@ -44,3 +44,4 @@ Some solved leetcode tasks
 * [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
 * [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
+* [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
