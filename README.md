@@ -46,3 +46,4 @@ Some solved leetcode tasks
 * [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 * [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
+* [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
