@@ -48,3 +48,4 @@ Some solved leetcode tasks
 * [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+* [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
