@@ -50,3 +50,4 @@ Some solved leetcode tasks
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 * [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
+* [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
