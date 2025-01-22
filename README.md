@@ -53,3 +53,4 @@ Some solved leetcode tasks
 * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 * [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
+* [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
