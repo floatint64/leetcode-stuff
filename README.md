@@ -54,3 +54,4 @@ Some solved leetcode tasks
 * [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
+* [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
