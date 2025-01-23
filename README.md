@@ -7,6 +7,7 @@ Some solved leetcode tasks
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+* [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
 
 ## Solved problems
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
