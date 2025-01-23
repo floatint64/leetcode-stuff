@@ -55,3 +55,4 @@ Some solved leetcode tasks
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
 * [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
+* [1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/description/)
