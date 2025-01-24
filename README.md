@@ -58,3 +58,4 @@ Some solved leetcode tasks
 * [1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/description/)
 * [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
+* [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
