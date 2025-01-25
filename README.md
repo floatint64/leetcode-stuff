@@ -8,6 +8,7 @@ Some solved leetcode tasks
 * [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
+* [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
 
 ## Solved problems
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
