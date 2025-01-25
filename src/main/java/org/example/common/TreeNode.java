@@ -66,4 +66,31 @@ public class TreeNode {
 
         return root;
     }
+
+    @Override
+    public String toString() {
+        Queue<String> queue = new LinkedList<>();
+        Queue<TreeNode> workQueue = new LinkedList<>();
+        workQueue.add(this);
+        TreeNode e = workQueue.poll();
+        while (e != null) {
+            queue.add(String.valueOf(e.val));
+            if (e.left == null && e.right == null) {
+                e = workQueue.poll();
+                continue;
+            }
+            if (e.left != null) {
+                workQueue.add(e.left);
+            } else {
+                queue.add("null");
+            }
+            if (e.right != null) {
+                workQueue.add(e.right);
+            } else {
+                queue.add("null");
+            }
+            e = workQueue.poll();
+        }
+        return String.format("%s", queue);
+    }
 }
