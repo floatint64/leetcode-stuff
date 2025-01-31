@@ -11,6 +11,7 @@ Some solved leetcode tasks
 * [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
 * [2166. Design Bitset](https://leetcode.com/problems/design-bitset/description/)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
+* [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)
 
 ## Solved problems
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
