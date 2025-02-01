@@ -64,3 +64,4 @@ Some solved leetcode tasks
 * [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 * [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
+* [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)
