@@ -13,6 +13,7 @@ Some solved leetcode tasks
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)
 * [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
+* [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)
 
 ## Solved problems
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
