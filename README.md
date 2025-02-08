@@ -66,3 +66,4 @@ Some solved leetcode tasks
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 * [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)
 * [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
+* [66. Plus One](https://leetcode.com/problems/plus-one/description/)
