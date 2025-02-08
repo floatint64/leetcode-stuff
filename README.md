@@ -67,3 +67,4 @@ Some solved leetcode tasks
 * [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)
 * [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
+* [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
