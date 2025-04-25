@@ -2,6 +2,8 @@
 Some solved leetcode tasks
 
 ## In progress problems
+* [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
+* [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)
 
 ## Solved problems
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
