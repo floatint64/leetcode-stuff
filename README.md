@@ -80,3 +80,4 @@ Some solved leetcode tasks
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
 * [385. Mini Parser](https://leetcode.com/problems/mini-parser/description/)
+* [2133. Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/)
