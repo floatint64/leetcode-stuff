@@ -8,7 +8,6 @@ Some solved leetcode tasks
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 * [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
 * [2166. Design Bitset](https://leetcode.com/problems/design-bitset/description/)
-* [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)
 * [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 
@@ -145,3 +144,4 @@ Some solved leetcode tasks
 * [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 * [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
+* [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)

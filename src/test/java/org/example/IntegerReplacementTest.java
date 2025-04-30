@@ -51,4 +51,31 @@ class IntegerReplacementTest {
 
         Assertions.assertEquals(2, replacement.integerReplacement(n));
     }
+
+    @Test
+    void integerReplacement6() {
+        IntegerReplacement replacement = new IntegerReplacement();
+
+        int n = 65535;
+
+        Assertions.assertEquals(17, replacement.integerReplacement(n));
+    }
+
+    @Test
+    void integerReplacement7() {
+        IntegerReplacement replacement = new IntegerReplacement();
+
+        int n = 10000;
+
+        Assertions.assertEquals(16, replacement.integerReplacement(n));
+    }
+
+    @Test
+    void integerReplacement8() {
+        IntegerReplacement replacement = new IntegerReplacement();
+
+        int n = 2147483647;
+
+        Assertions.assertEquals(32, replacement.integerReplacement(n));
+    }
 }

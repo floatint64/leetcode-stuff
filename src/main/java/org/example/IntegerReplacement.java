@@ -2,29 +2,21 @@ package org.example;
 
 public class IntegerReplacement {
     public int integerReplacement(int n) {
-        if (n == 1) {
-            return 0;
-        }
+        int result = 0;
 
-        int opsCount = 0;
-
-        if ((n & 1) > 0) {
-            n++;
-            opsCount++;
-        }
-
-        while (n > 2) {
-            if ((n & 1) > 0) {
+        while (n != 1) {
+            if (n == 3) {
                 n--;
-                opsCount++;
+            } else if ((n & 1) == 0) {
+                n >>>= 1;
+            } else if ((n % 4) == 3) {
+                n++;
+            } else {
+                n--;
             }
-            n >>= 1;
-            opsCount++;
+            result++;
         }
 
-        // 0 + 1 or 2 - 1
-        opsCount++;
-
-        return opsCount;
+        return result;
     }
 }
