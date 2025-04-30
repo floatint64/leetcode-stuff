@@ -7,23 +7,25 @@ public class IntegerReplacement {
         }
 
         int opsCount = 0;
+        while (n > 1) {
+            if ((n & 1) == 0) {
+                n /= 2;
+            } else {
+                int nextN = n < Integer.MAX_VALUE ? n + 1 : n - 1;
+                int prevN = n - 1;
 
-        if ((n & 1) > 0) {
-            n++;
-            opsCount++;
-        }
-
-        while (n > 2) {
-            if ((n & 1) > 0) {
-                n--;
-                opsCount++;
+                if (prevN == 2) {
+                    n = prevN;
+                } else if (((prevN / 2) & 1) == 0) {
+                    n = prevN;
+                } else if (((nextN / 2) & 1) == 0) {
+                    n = nextN;
+                } else {
+                    n--;
+                }
             }
-            n >>= 1;
             opsCount++;
         }
-
-        // 0 + 1 or 2 - 1
-        opsCount++;
 
         return opsCount;
     }
