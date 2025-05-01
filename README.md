@@ -81,3 +81,4 @@ Some solved leetcode tasks
 * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
 * [385. Mini Parser](https://leetcode.com/problems/mini-parser/description/)
 * [2133. Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/)
+* [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
