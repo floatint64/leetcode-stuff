@@ -21,8 +21,18 @@ public class FirstBadVersion {
         }
 
         int m = 1 + (n - 1) / 2;
-        while (m >= 1 && isBadVersion(m)) {
-            m /= 2;
+        while (m > 1 && m < n) {
+            var prev = isBadVersion(m - 1);
+            var curr = isBadVersion(m);
+            if (!prev && curr) {
+                return m;
+            }
+
+            if (curr) {
+                m = (m - 1) / 2;
+            } else {
+                m = (m + n) / 2;
+            }
         }
 
         if (m == 1) {
