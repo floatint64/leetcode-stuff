@@ -24,4 +24,13 @@ class UTF8ValidationTest {
 
         Assertions.assertFalse(utf8Validation.validUtf8(data));
     }
+
+    @Test
+    void validUtf83() {
+        UTF8Validation utf8Validation = new UTF8Validation();
+
+        int[] data = {255};
+
+        Assertions.assertFalse(utf8Validation.validUtf8(data));
+    }
 }

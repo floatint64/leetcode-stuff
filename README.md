@@ -3,7 +3,6 @@ Some solved leetcode tasks
 
 ## In progress problems
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
-* [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
@@ -82,3 +81,4 @@ Some solved leetcode tasks
 * [385. Mini Parser](https://leetcode.com/problems/mini-parser/description/)
 * [2133. Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/)
 * [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
+* [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)

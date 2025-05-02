@@ -15,37 +15,45 @@ public class UTF8Validation {
         return (n << ((4 - k) * 8) - 1) >>> (32 - (8 * k) - 1);
     }
 
-    private static int[][] CHECK_MAP = new int[255][0];
-    private static int[] MASK_BITS_COUNT = new int[] {1, 3, 4, 5};
-
-    static {
-
-        CHECK_MAP[ONE_BYTES_MASK] = new int[0];
-        CHECK_MAP[TWO_BYTES_MASK] = new int[]{2};
-        CHECK_MAP[THREE_BYTES_MASK] = new int[]{2, 3};
-        CHECK_MAP[FOUR_BYTES_MASK] = new int[]{2, 3, 4};
-    }
-
 
     public boolean validUtf8(int[] data) {
 
-        for (int i = 0; i < data.length; i++) {
 
+        int i = 0;
+
+        while (i < data.length) {
             int unit = data[i];
-            boolean invalid = false;
-            for (int j = 0; j < MASK_BITS_COUNT.length; j++) {
-                int detectedBits = getBits(getByte(unit, 1), MASK_BITS_COUNT[j] + 1);
-                var needChecks = CHECK_MAP[detectedBits];
-                for (int k = 0; k < needChecks.length; k++) {
-                    int bb = getByte(unit, needChecks[k]);
-                    int b = getBits(getByte(unit, needChecks[k]), 2);
-                    invalid = invalid || (getBits(getByte(unit, needChecks[k]), 2) == NEXT_BYTE_MASK);
+
+            int b = getByte(unit, 1);
+
+            if (getBits(b, 1) == ONE_BYTES_MASK) {
+              i++;
+            } else if (getBits(b, 3) == TWO_BYTES_MASK) {
+                if (i + 1 < data.length && getBits(getByte(data[i + 1], 1), 2) == NEXT_BYTE_MASK) {
+                    i += 2;
+                } else {
+                    return false;
                 }
-            }
-            if (invalid) {
+            } else if (getBits(b, 4) == THREE_BYTES_MASK) {
+                if (i + 2 < data.length && getBits(getByte(data[i + 1], 1), 2) == NEXT_BYTE_MASK &&
+                        getBits(getByte(data[i + 2], 1), 2) == NEXT_BYTE_MASK) {
+                    i += 3;
+                } else {
+                    return false;
+                }
+            } else if (getBits(b, 5) == FOUR_BYTES_MASK) {
+                if (i + 3 < data.length && getBits(getByte(data[i + 1], 1), 2) == NEXT_BYTE_MASK &&
+                        getBits(getByte(data[i + 2], 1), 2) == NEXT_BYTE_MASK &&
+                        getBits(getByte(data[i + 3], 1), 2) == NEXT_BYTE_MASK) {
+                    i += 4;
+                } else {
+                    return false;
+                }
+            } else {
                 return false;
             }
         }
+
         return true;
     }
 }
