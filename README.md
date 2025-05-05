@@ -82,3 +82,4 @@ Some solved leetcode tasks
 * [2133. Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/)
 * [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)
+* [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
