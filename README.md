@@ -85,3 +85,4 @@ Some solved leetcode tasks
 * [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
+* [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
