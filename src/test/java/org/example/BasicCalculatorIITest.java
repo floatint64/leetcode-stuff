@@ -105,4 +105,13 @@ class BasicCalculatorIITest {
 
         Assertions.assertEquals(-24, basicCalculatorII.calculate(expr));
     }
+
+    @Test
+    void calculate12() {
+        BasicCalculatorII basicCalculatorII = new BasicCalculatorII();
+
+        String expr = "1+2*5/3+6/4*2";
+
+        Assertions.assertEquals(6, basicCalculatorII.calculate(expr));
+    }
 }

@@ -6,7 +6,6 @@ Some solved leetcode tasks
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
-* [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
 * [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
 * [2166. Design Bitset](https://leetcode.com/problems/design-bitset/description/)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
@@ -85,3 +84,4 @@ Some solved leetcode tasks
 * [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 * [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
+* [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
