@@ -18,4 +18,16 @@ class FirstBadVersionTest {
         var c = new FirstBadVersion(2);
         Assertions.assertEquals(2, c.firstBadVersion(3));
     }
+
+    @Test
+    void firstBadVersion3() {
+        var c = new FirstBadVersion(1702766719);
+        Assertions.assertEquals(1702766719, c.firstBadVersion(2126753390));
+    }
+
+    @Test
+    void firstBadVersion4() {
+        var c = new FirstBadVersion(1);
+        Assertions.assertEquals(1, c.firstBadVersion(2));
+    }
 }

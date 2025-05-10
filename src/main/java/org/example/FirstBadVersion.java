@@ -3,36 +3,42 @@ package org.example;
 public class FirstBadVersion {
 
     private final int k;
+    public int counter;
 
     public FirstBadVersion(int k) {
         this.k = k;
     }
 
     public boolean isBadVersion(int version) {
+        counter++;
         return version >= k;
     }
 
+    private int firstBadVersionSub(int l, int r) {
+        if (l == r) {
+            return l;
+        }
+
+        if (l > r) {
+            return l;
+        }
+
+        int m = l + (r - l) / 2;
+
+        var isCurrBad = isBadVersion(m);
+        if (isCurrBad && (m > 1 && !isBadVersion(m - 1))) {
+            return m;
+        }
+
+        if (isCurrBad) {
+            return firstBadVersionSub(l, m - 1);
+        } else {
+            return firstBadVersionSub(m + 1, r);
+        }
+
+    }
+
     public int firstBadVersion(int n) {
-        if (n == 1 && isBadVersion(n)) {
-            return 1;
-        }
-        if (isBadVersion(n) && !isBadVersion(n - 1)) {
-            return n;
-        }
-
-        int m = 1 + (n - 1) / 2;
-        while (m >= 1 && isBadVersion(m)) {
-            m /= 2;
-        }
-
-        if (m == 1) {
-            return 1;
-        }
-
-        while (!isBadVersion(m)) {
-            m++;
-        }
-
-        return m;
+        return firstBadVersionSub(1, n);
     }
 }

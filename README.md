@@ -8,7 +8,6 @@ Some solved leetcode tasks
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 * [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
 * [2166. Design Bitset](https://leetcode.com/problems/design-bitset/description/)
-* [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)
 * [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 * [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)
@@ -86,3 +85,4 @@ Some solved leetcode tasks
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+* [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
