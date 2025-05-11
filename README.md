@@ -86,3 +86,4 @@ Some solved leetcode tasks
 * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
+* [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
