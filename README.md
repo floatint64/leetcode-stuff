@@ -88,3 +88,4 @@ Some solved leetcode tasks
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 * [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)
+* [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
