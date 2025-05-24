@@ -90,3 +90,4 @@ Some solved leetcode tasks
 * [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)
 * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 * [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/)
+* [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description)
