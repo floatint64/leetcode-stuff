@@ -93,3 +93,4 @@ Some solved leetcode tasks
 * [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description)
 * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description)
 * [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description)
+* [3324. Find the Sequence of Strings Appeared on the Screen](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/description/)
