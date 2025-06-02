@@ -99,3 +99,4 @@ Some solved leetcode tasks
 * [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/)
 * [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/)
 * [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/description/)
+* [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/)
