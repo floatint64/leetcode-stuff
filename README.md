@@ -102,3 +102,4 @@ Some solved leetcode tasks
 * [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/)
 * [2100. Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/description/)
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+* [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
