@@ -101,3 +101,4 @@ Some solved leetcode tasks
 * [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/description/)
 * [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/)
 * [2100. Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/description/)
+* [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
