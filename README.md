@@ -108,3 +108,4 @@ Some solved leetcode tasks
 * [1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/description/)
 * [2023. Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/description/)
 * [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
+* [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/)
