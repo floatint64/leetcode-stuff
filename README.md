@@ -110,3 +110,4 @@ Some solved leetcode tasks
 * [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
 * [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/)
 * [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
+* [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
