@@ -109,3 +109,4 @@ Some solved leetcode tasks
 * [2023. Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/description/)
 * [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
 * [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/)
+* [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
