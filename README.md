@@ -10,7 +10,6 @@ Some solved leetcode tasks
 * [2166. Design Bitset](https://leetcode.com/problems/design-bitset/description/)
 * [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)
 * [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
-* [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 
 ## Solved problems
@@ -129,3 +128,4 @@ Some solved leetcode tasks
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 * [2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/description/)
 * [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)
+* [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)

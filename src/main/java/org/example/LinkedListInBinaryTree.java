@@ -4,28 +4,28 @@ import org.example.common.ListNode;
 import org.example.common.TreeNode;
 
 public class LinkedListInBinaryTree {
-    private boolean isSubPathSub(ListNode head, ListNode headOriginal, TreeNode root) {
+
+    private static boolean dfs(ListNode head, TreeNode root) {
         if (head == null) {
             return true;
-        } else if (root == null) {
+        }
+
+        if (root == null) {
             return false;
         }
 
-        boolean currResult = head.val == root.val;
-
-        if (currResult) {
-            boolean leftResult = isSubPathSub(head.next, headOriginal, root.left);
-            boolean rightResult = isSubPathSub(head.next, headOriginal, root.right);
-            if (!(leftResult || rightResult)) {
-                return isSubPathSub(headOriginal, headOriginal, root.left) || isSubPathSub(headOriginal, headOriginal, root.right);
-            }
-            return true;
+        if (head.val == root.val) {
+            return dfs(head.next, root.left) | dfs(head.next, root.right);
         }
 
-        return isSubPathSub(headOriginal, headOriginal, root.left) || isSubPathSub(headOriginal, headOriginal, root.right);
+        return false;
     }
 
     public boolean isSubPath(ListNode head, TreeNode root) {
-        return isSubPathSub(head, head, root);
+        if (root == null) {
+            return false;
+        }
+
+        return dfs(head, root) | isSubPath(head, root.left) | isSubPath(head, root.right);
     }
 }
