@@ -1,31 +1,34 @@
 package org.example;
 
+import com.sun.source.tree.Tree;
 import org.example.common.ListNode;
 import org.example.common.TreeNode;
 
 public class LinkedListInBinaryTree {
-    private boolean isSubPathSub(ListNode head, ListNode headOriginal, TreeNode root) {
+    private boolean isSub(ListNode prevHead, ListNode head, TreeNode root) {
         if (head == null) {
             return true;
-        } else if (root == null) {
+        }
+
+        if (root == null) {
             return false;
         }
 
-        boolean currResult = head.val == root.val;
-
-        if (currResult) {
-            boolean leftResult = isSubPathSub(head.next, headOriginal, root.left);
-            boolean rightResult = isSubPathSub(head.next, headOriginal, root.right);
-            if (!(leftResult || rightResult)) {
-                return isSubPathSub(headOriginal, headOriginal, root.left) || isSubPathSub(headOriginal, headOriginal, root.right);
-            }
-            return true;
+        if (head.val == root.val) {
+            return isSub(head, head.next, root.left) || isSub(head, head.next, root.right);
         }
 
-        return isSubPathSub(headOriginal, headOriginal, root.left) || isSubPathSub(headOriginal, headOriginal, root.right);
+        if (prevHead != head) {
+            return isSub(prevHead, prevHead, root);// || isSub(originalHead, originalHead, root);
+        } else {
+            return isSub(prevHead, prevHead, root.left) || isSub(prevHead, prevHead, root.right);
+        }
     }
 
     public boolean isSubPath(ListNode head, TreeNode root) {
-        return isSubPathSub(head, head, root);
+        if (root == null) {
+            return false;
+        }
+        return isSub(head, head, root);
     }
 }
