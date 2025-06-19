@@ -111,3 +111,4 @@ Some solved leetcode tasks
 * [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/)
 * [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
 * [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
+* [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/)
