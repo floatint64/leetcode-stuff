@@ -113,3 +113,4 @@ Some solved leetcode tasks
 * [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
 * [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/)
 * [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)
+* [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
