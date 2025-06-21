@@ -115,3 +115,4 @@ Some solved leetcode tasks
 * [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)
 * [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 * [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)
+* [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
