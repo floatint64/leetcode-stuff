@@ -112,3 +112,4 @@ Some solved leetcode tasks
 * [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
 * [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
 * [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/)
+* [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)
