@@ -117,3 +117,4 @@ Some solved leetcode tasks
 * [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
+* [2129. Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/)
