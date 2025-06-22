@@ -118,3 +118,4 @@ Some solved leetcode tasks
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
 * [2129. Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/)
+* [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)
