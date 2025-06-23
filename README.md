@@ -119,3 +119,4 @@ Some solved leetcode tasks
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
 * [2129. Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/)
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)
+* [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/)
