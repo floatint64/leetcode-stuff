@@ -120,3 +120,4 @@ Some solved leetcode tasks
 * [2129. Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/)
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)
 * [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/)
+* [2309. Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/)
