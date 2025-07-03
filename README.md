@@ -130,3 +130,4 @@ Some solved leetcode tasks
 * [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)
 * [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)
 * [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/)
+* [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
