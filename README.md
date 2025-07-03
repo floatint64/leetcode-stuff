@@ -129,3 +129,4 @@ Some solved leetcode tasks
 * [2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/description/)
 * [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)
 * [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)
+* [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/)
