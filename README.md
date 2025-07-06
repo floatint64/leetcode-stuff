@@ -132,3 +132,4 @@ Some solved leetcode tasks
 * [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/)
 * [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
 * [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/)
+* [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/)
