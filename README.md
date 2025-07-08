@@ -134,3 +134,4 @@ Some solved leetcode tasks
 * [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/)
 * [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+* [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
