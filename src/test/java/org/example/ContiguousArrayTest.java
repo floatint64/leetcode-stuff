@@ -116,4 +116,25 @@ class ContiguousArrayTest {
 
         Assertions.assertEquals(4, contiguousArray.findMaxLength(nums));
     }
+
+    @Test
+    void findMaxLength12() {
+
+        ContiguousArray contiguousArray = new ContiguousArray();
+
+        int[] nums = {0,1,1,0,0,0,1,1,1,0,1,1,1,1,1,1};
+
+        Assertions.assertEquals(6, contiguousArray.findMaxLength(nums));
+    }
+
+    @Test
+    void findMaxLength13() {
+
+        ContiguousArray contiguousArray = new ContiguousArray();
+
+        int[] nums = {1,1,1,0,0,0};
+
+        Assertions.assertEquals(6, contiguousArray.findMaxLength(nums));
+    }
+
 }
