@@ -136,3 +136,4 @@ Some solved leetcode tasks
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 * [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
 * [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+* [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)
