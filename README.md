@@ -137,3 +137,4 @@ Some solved leetcode tasks
 * [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
 * [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)
+* [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
