@@ -138,3 +138,4 @@ Some solved leetcode tasks
 * [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)
 * [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
+* [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)
