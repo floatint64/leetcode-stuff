@@ -143,3 +143,4 @@ Some solved leetcode tasks
 * [3136. Valid Word](https://leetcode.com/problems/valid-word/description/)
 * [2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/)
 * [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+* [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/)
