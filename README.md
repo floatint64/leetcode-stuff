@@ -3,7 +3,6 @@ Some solved leetcode tasks
 
 ## In progress problems
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
-* [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 * [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
 * [2166. Design Bitset](https://leetcode.com/problems/design-bitset/description/)
@@ -145,3 +144,4 @@ Some solved leetcode tasks
 * [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 * [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)
 * [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/)
+* [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)

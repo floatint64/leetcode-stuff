@@ -38,4 +38,52 @@ class IsomorphicStringsTest {
 
         Assertions.assertFalse(isomorphicStrings.isIsomorphic("bbbaaaba", "aaabbbba"));
     }
+
+    @Test
+    void isIsomorphic5() {
+
+        IsomorphicStrings isomorphicStrings = new IsomorphicStrings();
+
+        Assertions.assertFalse(isomorphicStrings.isIsomorphic("badc", "baba"));
+    }
+
+    @Test
+    void isIsomorphic6() {
+
+        IsomorphicStrings isomorphicStrings = new IsomorphicStrings();
+
+        Assertions.assertFalse(isomorphicStrings.isIsomorphic("egcd", "adfd"));
+    }
+
+    @Test
+    void isIsomorphic7() {
+
+        IsomorphicStrings isomorphicStrings = new IsomorphicStrings();
+
+        Assertions.assertTrue(isomorphicStrings.isIsomorphic("abcd", "oltp"));
+    }
+
+    @Test
+    void isIsomorphic8() {
+
+        IsomorphicStrings isomorphicStrings = new IsomorphicStrings();
+
+        Assertions.assertTrue(isomorphicStrings.isIsomorphic("abcd", "alek"));
+    }
+
+    @Test
+    void isIsomorphic9() {
+
+        IsomorphicStrings isomorphicStrings = new IsomorphicStrings();
+
+        Assertions.assertFalse(isomorphicStrings.isIsomorphic("aabb", "vvcd"));
+    }
+
+    @Test
+    void isIsomorphic10() {
+
+        IsomorphicStrings isomorphicStrings = new IsomorphicStrings();
+
+        Assertions.assertTrue(isomorphicStrings.isIsomorphic("aabb", "vvcc"));
+    }
 }

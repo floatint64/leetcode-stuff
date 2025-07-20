@@ -1,28 +1,24 @@
 package org.example;
 
-import java.util.Map;
-import java.util.TreeMap;
-import java.util.function.Function;
-import java.util.stream.Collectors;
+import java.util.Arrays;
 
 public class IsomorphicStrings {
     public boolean isIsomorphic(String s, String t) {
 
-        TreeMap<Character, Map.Entry<Character, Integer>> charMap = new TreeMap<>();
+        int[] mappedChars = new int[256];
+        int[] invertedChars = new int[256];
 
-        var tChars = t.chars().mapToObj(c -> (char)c).collect(Collectors.groupingBy(Function.identity()));
+        Arrays.fill(mappedChars, -1);
+        Arrays.fill(invertedChars, -1);
 
         for (int i = 0; i < s.length(); i++) {
-            if (charMap.containsKey(s.charAt(i))) {
-                var charStat = charMap.get(s.charAt(i));
-                charMap.put(s.charAt(i), Map.entry(t.charAt(i), charStat.getValue() + 1));
-            } else {
-                charMap.put(s.charAt(i), Map.entry(t.charAt(i), 1));
-            }
-        }
-
-        for (var c : charMap.values()) {
-            if (!c.getValue().equals(tChars.get(c.getKey()).size())) {
+            if (mappedChars[s.charAt(i)] == -1) {
+                mappedChars[s.charAt(i)] = t.charAt(i);
+                if (invertedChars[t.charAt(i)] != -1 && invertedChars[t.charAt(i)] != s.charAt(i)) {
+                    return false;
+                }
+                invertedChars[t.charAt(i)] = s.charAt(i);
+            } else if (s.charAt(i) != invertedChars[t.charAt(i)]){
                 return false;
             }
         }
