@@ -146,3 +146,4 @@ Some solved leetcode tasks
 * [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/)
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+* [1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/description/)
