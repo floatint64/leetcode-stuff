@@ -145,3 +145,4 @@ Some solved leetcode tasks
 * [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)
 * [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/)
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+* [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
