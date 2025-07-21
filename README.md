@@ -5,7 +5,6 @@ Some solved leetcode tasks
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 * [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
-* [2166. Design Bitset](https://leetcode.com/problems/design-bitset/description/)
 * [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 
@@ -147,3 +146,4 @@ Some solved leetcode tasks
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 * [1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/description/)
+* [2166. Design Bitset](https://leetcode.com/problems/design-bitset/description/)
