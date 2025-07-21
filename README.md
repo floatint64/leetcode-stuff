@@ -147,3 +147,4 @@ Some solved leetcode tasks
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 * [1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/description/)
 * [2166. Design Bitset](https://leetcode.com/problems/design-bitset/description/)
+* [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/)
