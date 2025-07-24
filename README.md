@@ -149,3 +149,4 @@ Some solved leetcode tasks
 * [2166. Design Bitset](https://leetcode.com/problems/design-bitset/description/)
 * [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
+* [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/)
