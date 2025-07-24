@@ -1,37 +1,44 @@
 package org.example;
 
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 public class LRUCache {
-    private HashMap<Integer, Integer> cache = new HashMap<>();
     private int capacity;
-    private Queue<Integer> queue = new LinkedList<>();
+
+    private final int[] cache = new int[10001];
+    private final Queue<Integer> keys;
 
     public LRUCache(int capacity) {
+        Arrays.fill(cache, -1);
         this.capacity = capacity;
+        keys = new ArrayDeque<>(capacity);
     }
 
     public int get(int key) {
-        Integer val = cache.get(key);
-        if (val != null) {
-            queue.remove(key);
-            queue.add(key);
+        if (cache[key] == -1) {
+            return -1;
         }
-        return val == null ? -1 : val;
+
+        keys.remove(key);
+        keys.add(key);
+
+        return cache[key];
     }
 
     public void put(int key, int value) {
-        if (cache.size() + 1 > capacity) {
-            if (!queue.isEmpty()) {
-                int queuedValue = queue.poll();
-                cache.remove(queuedValue);
-                queue.remove(queuedValue);
-            }
+        if (cache[key] != -1) {
+            keys.remove(key);
+            keys.add(key);
+            cache[key] = value;
+            return;
         }
-        cache.put(key, value);
-        queue.remove(key);
-        queue.add(key);
+
+        if (keys.size() + 1 > capacity) {
+            var lastKey = keys.poll();
+            cache[lastKey] = -1;
+        }
+
+        keys.add(key);
+        cache[key] = value;
     }
 }

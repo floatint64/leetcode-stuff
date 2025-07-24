@@ -3,7 +3,6 @@ Some solved leetcode tasks
 
 ## In progress problems
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
-* [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 * [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
 * [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
@@ -150,3 +149,4 @@ Some solved leetcode tasks
 * [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/)
+* [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
