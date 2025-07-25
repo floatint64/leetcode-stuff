@@ -151,3 +151,4 @@ Some solved leetcode tasks
 * [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 * [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/)
+* [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)
