@@ -153,3 +153,4 @@ Some solved leetcode tasks
 * [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/)
 * [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)
 * [2224. Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/description/)
+* [3487. Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/)
