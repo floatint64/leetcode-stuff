@@ -154,3 +154,4 @@ Some solved leetcode tasks
 * [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)
 * [2224. Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/description/)
 * [3487. Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/)
+* [3561. Resulting String After Adjacent Removals](https://leetcode.com/problems/resulting-string-after-adjacent-removals/description/)
