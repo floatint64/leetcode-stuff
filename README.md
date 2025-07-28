@@ -156,3 +156,4 @@ Some solved leetcode tasks
 * [3487. Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/)
 * [3561. Resulting String After Adjacent Removals](https://leetcode.com/problems/resulting-string-after-adjacent-removals/description/)
 * [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+* [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
