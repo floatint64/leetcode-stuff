@@ -160,3 +160,4 @@ Some solved leetcode tasks
 * [2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)
 * [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
+* [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
