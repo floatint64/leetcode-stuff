@@ -161,3 +161,4 @@ Some solved leetcode tasks
 * [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
+* [2974. Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)
