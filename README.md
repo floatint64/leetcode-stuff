@@ -163,3 +163,4 @@ Some solved leetcode tasks
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
 * [2974. Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)
 * [136. Single Number](https://leetcode.com/problems/single-number/description/)
+* [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
