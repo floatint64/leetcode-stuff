@@ -165,3 +165,4 @@ Some solved leetcode tasks
 * [136. Single Number](https://leetcode.com/problems/single-number/description/)
 * [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
 * [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/)
+* [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)
