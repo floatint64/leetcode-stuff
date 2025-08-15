@@ -168,3 +168,4 @@ Some solved leetcode tasks
 * [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 * [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
+* [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
