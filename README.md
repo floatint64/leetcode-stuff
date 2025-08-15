@@ -167,3 +167,4 @@ Some solved leetcode tasks
 * [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/)
 * [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+* [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
