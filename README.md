@@ -171,3 +171,4 @@ Some solved leetcode tasks
 * [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
 * [2595. Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/description/)
 * [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
+* [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)
