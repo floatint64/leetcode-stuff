@@ -174,3 +174,4 @@ Some solved leetcode tasks
 * [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)
 * [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)
 * [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
+* [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/description/)
