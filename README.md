@@ -178,3 +178,4 @@ Some solved leetcode tasks
 * [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/)
 * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
 * [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/)
+* [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
