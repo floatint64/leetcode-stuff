@@ -177,3 +177,4 @@ Some solved leetcode tasks
 * [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/description/)
 * [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/)
 * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
+* [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/)
