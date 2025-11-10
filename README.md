@@ -179,3 +179,4 @@ Some solved leetcode tasks
 * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
 * [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/)
 * [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+* [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
