@@ -181,3 +181,4 @@ Some solved leetcode tasks
 * [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
+* [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
