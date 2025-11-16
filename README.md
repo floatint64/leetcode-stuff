@@ -183,3 +183,4 @@ Some solved leetcode tasks
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 * [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
 * [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
+* [112. Path Sum](https://leetcode.com/problems/path-sum/description/)
