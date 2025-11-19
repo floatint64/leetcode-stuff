@@ -184,3 +184,4 @@ Some solved leetcode tasks
 * [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
 * [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 * [112. Path Sum](https://leetcode.com/problems/path-sum/description/)
+* [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/)
