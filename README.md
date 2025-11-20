@@ -185,3 +185,4 @@ Some solved leetcode tasks
 * [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 * [112. Path Sum](https://leetcode.com/problems/path-sum/description/)
 * [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/)
+* [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)
