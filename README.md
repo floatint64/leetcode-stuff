@@ -187,3 +187,4 @@ Some solved leetcode tasks
 * [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/)
 * [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)
 * [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
+* [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/)
