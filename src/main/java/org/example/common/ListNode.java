@@ -2,6 +2,7 @@ package org.example.common;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
@@ -11,7 +12,6 @@ public class ListNode {
   public ListNode() {}
   public ListNode(int val) { this.val = val; }
   public ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-
   public List<Integer> toList() {
     List<Integer> result = new ArrayList<>();
 
@@ -34,4 +34,16 @@ public class ListNode {
 
     return tmpList.get(0);
   }
+
+    @Override
+    public boolean equals(Object o) {
+        if (o == null || getClass() != o.getClass()) return false;
+        ListNode listNode = (ListNode) o;
+        return val == listNode.val && Objects.equals(next, listNode.next);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(val, next);
+    }
 }

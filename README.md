@@ -189,3 +189,4 @@ Some solved leetcode tasks
 * [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
 * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/)
 * [61. Rotate List](https://leetcode.com/problems/rotate-list/description/)
+* [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)
