@@ -192,3 +192,4 @@ Some solved leetcode tasks
 * [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)
 * [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 * [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
+* [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
