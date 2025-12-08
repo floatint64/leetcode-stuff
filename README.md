@@ -193,3 +193,4 @@ Some solved leetcode tasks
 * [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 * [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
+* [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
