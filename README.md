@@ -194,3 +194,4 @@ Some solved leetcode tasks
 * [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+* [2525. Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/description/)
