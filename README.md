@@ -196,3 +196,4 @@ Some solved leetcode tasks
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 * [2525. Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/description/)
 * [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/)
+* [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
