@@ -199,3 +199,4 @@ Some solved leetcode tasks
 * [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 * [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)
 * [2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/description/)
+* [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)
