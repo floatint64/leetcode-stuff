@@ -203,3 +203,4 @@ Some solved leetcode tasks
 * [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/)
 * [3754. Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/description/)
 * [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)
+* [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
