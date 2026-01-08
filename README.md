@@ -205,3 +205,4 @@ Some solved leetcode tasks
 * [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 * [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+* [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
