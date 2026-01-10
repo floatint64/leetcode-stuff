@@ -1,6 +1,7 @@
 package org.example.common;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
@@ -23,6 +24,11 @@ public class ListNode {
     }
 
     return result;
+  }
+
+  public static ListNode fromArray(int[] arr) {
+      var stream = Arrays.stream(arr);
+      return fromIntStream(stream);
   }
 
   public static ListNode fromIntStream(IntStream stream) {
