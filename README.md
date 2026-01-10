@@ -208,3 +208,4 @@ Some solved leetcode tasks
 * [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
 * [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
 * [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
+* [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
