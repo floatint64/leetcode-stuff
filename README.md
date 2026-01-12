@@ -211,3 +211,4 @@ Some solved leetcode tasks
 * [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
 * [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)
 * [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/)
+* [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
