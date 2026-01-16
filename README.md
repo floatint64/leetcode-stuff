@@ -215,3 +215,4 @@ Some solved leetcode tasks
 * [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
+* [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
