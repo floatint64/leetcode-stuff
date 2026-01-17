@@ -216,3 +216,4 @@ Some solved leetcode tasks
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
+* [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/)
