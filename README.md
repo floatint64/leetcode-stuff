@@ -218,3 +218,4 @@ Some solved leetcode tasks
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
 * [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/)
 * [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)
+* [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
