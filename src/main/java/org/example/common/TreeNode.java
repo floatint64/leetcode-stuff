@@ -1,6 +1,8 @@
 package org.example.common;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 
 public class TreeNode {
@@ -33,35 +35,63 @@ public class TreeNode {
         return queue;
     }
 
-    public static TreeNode fromArray(Integer[] input) {
-        if (input.length < 1) {
+    public List<Integer> toListWithoutLastNulls() {
+        List<Integer> result = new ArrayList<>();
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(this);
+        int nonNullCount = 1;
+
+        while (!queue.isEmpty() && nonNullCount > 0) {
+            TreeNode current = queue.poll();
+
+            if (current == null) {
+                result.add(null);
+                continue;
+            }
+
+            result.add(current.val);
+            nonNullCount--;
+
+            queue.offer(current.left);
+            queue.offer(current.right);
+
+            if (current.left != null) nonNullCount++;
+            if (current.right != null) nonNullCount++;
+        }
+
+        return result;
+    }
+
+    public static TreeNode fromArray(Integer[] values) {
+        if (values == null || values.length == 0 || values[0] == null) {
             return null;
         }
 
-        TreeNode root = new TreeNode(input[0]);
+        TreeNode root = new TreeNode(values[0]);
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
 
-        int i = 1;
-        Queue<TreeNode> initQueue = new LinkedList<>();
-        initQueue.add(root);
+        int index = 1;
 
-        while (i < input.length - 1) {
+        while (!queue.isEmpty() && index < values.length) {
+            TreeNode current = queue.poll();
 
-            TreeNode node = initQueue.poll();
-
-            if (input[i] != null) {
-                TreeNode left = new TreeNode(input[i]);
-                node.left = left;
-                initQueue.add(left);
+            if (index < values.length) {
+                Integer leftVal = values[index++];
+                if (leftVal != null) {
+                    current.left = new TreeNode(leftVal);
+                    queue.offer(current.left);
+                }
             }
 
-            if ((i + 1 < input.length) && input[i + 1] != null) {
-                TreeNode right = new TreeNode(input[i + 1]);
-                node.right = right;
-                initQueue.add(right);
+            if (index < values.length) {
+                Integer rightVal = values[index++];
+                if (rightVal != null) {
+                    current.right = new TreeNode(rightVal);
+                    queue.offer(current.right);
+                }
             }
-
-            i += 2;
-
         }
 
         return root;
