@@ -221,3 +221,4 @@ Some solved leetcode tasks
 * [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 * [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)
 * [705. Design HashSet](https://leetcode.com/problems/design-hashset/description/)
+* [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
