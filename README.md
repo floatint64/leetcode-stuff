@@ -222,3 +222,4 @@ Some solved leetcode tasks
 * [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)
 * [705. Design HashSet](https://leetcode.com/problems/design-hashset/description/)
 * [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
+* [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
