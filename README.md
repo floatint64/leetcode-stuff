@@ -225,3 +225,4 @@ Some solved leetcode tasks
 * [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
 * [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)
 * [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)
+* [3142. Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/description/)
