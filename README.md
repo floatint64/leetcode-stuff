@@ -227,3 +227,4 @@ Some solved leetcode tasks
 * [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)
 * [3142. Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/description/)
 * [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)
+* [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)
