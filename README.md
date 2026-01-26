@@ -229,3 +229,4 @@ Some solved leetcode tasks
 * [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)
 * [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)
 * [561. Array Partition](https://leetcode.com/problems/array-partition/description/)
+* [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/)
