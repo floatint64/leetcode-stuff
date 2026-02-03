@@ -230,3 +230,4 @@ Some solved leetcode tasks
 * [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)
 * [561. Array Partition](https://leetcode.com/problems/array-partition/description/)
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/)
+* [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/)
