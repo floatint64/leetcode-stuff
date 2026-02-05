@@ -231,3 +231,4 @@ Some solved leetcode tasks
 * [561. Array Partition](https://leetcode.com/problems/array-partition/description/)
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/)
 * [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/)
+* [3379. Transformed Array](https://leetcode.com/problems/transformed-array/description/)
