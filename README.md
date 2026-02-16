@@ -232,3 +232,4 @@ Some solved leetcode tasks
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/)
 * [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/)
 * [3379. Transformed Array](https://leetcode.com/problems/transformed-array/description/)
+* [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
