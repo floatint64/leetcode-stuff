@@ -233,3 +233,4 @@ Some solved leetcode tasks
 * [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/)
 * [3379. Transformed Array](https://leetcode.com/problems/transformed-array/description/)
 * [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
+* [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/)
