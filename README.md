@@ -237,3 +237,4 @@ Some solved leetcode tasks
 * [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
 * [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)
 * [868. Binary Gap](https://leetcode.com/problems/binary-gap/description/)
+* [3688. Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/description/)
