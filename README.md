@@ -236,3 +236,4 @@ Some solved leetcode tasks
 * [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/)
 * [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
 * [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)
+* [868. Binary Gap](https://leetcode.com/problems/binary-gap/description/)
