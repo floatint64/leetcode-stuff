@@ -239,3 +239,4 @@ Some solved leetcode tasks
 * [868. Binary Gap](https://leetcode.com/problems/binary-gap/description/)
 * [3688. Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/description/)
 * [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)
+* [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/)
