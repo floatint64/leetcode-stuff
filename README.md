@@ -245,3 +245,4 @@ Some solved leetcode tasks
 * [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/)
 * [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/)
 * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/)
+* [3643. Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/)
