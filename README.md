@@ -249,3 +249,4 @@ Some solved leetcode tasks
 * [2946. Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
 * [3740. Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/description/)
+* [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/)
