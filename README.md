@@ -251,3 +251,4 @@ Some solved leetcode tasks
 * [3740. Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/description/)
 * [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/)
 * [3783. Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/)
+* [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/)
