@@ -253,3 +253,4 @@ Some solved leetcode tasks
 * [3783. Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/)
 * [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/)
 * [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/)
+* [3838. Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/)
