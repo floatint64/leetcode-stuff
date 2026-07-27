@@ -254,3 +254,4 @@ Some solved leetcode tasks
 * [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/)
 * [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/)
 * [3838. Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/)
+* [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/)
