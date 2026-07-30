@@ -255,3 +255,4 @@ Some solved leetcode tasks
 * [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/)
 * [3838. Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/)
 * [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/)
+* [3014. Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/description/)
